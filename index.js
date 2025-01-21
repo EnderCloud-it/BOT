@@ -6,7 +6,7 @@ const path = require('path');
 
 const mc = require('minecraft-protocol');
 const serverHost = 'play.ninjamc.eu';
-const serverPort = 55523;
+const serverPort = 25565;
 const botUsername = 'NinjaBot';
 const reconnectInterval = 1 * 40 * 1000;
 
